@@ -10,9 +10,9 @@ The findings show declining sales activity, fewer new customers, and weaker perf
 
 To analyse e-commerce performance using SQL, evaluate year-on-year changes in sales, customer acquisition, and purchasing behaviour, and identify key business trends and opportunities for improvement.
 
-## Tools & Technical Skills
+## Tools and Technical Skills
 
-- **SQL Server & SSMS:** Data analysis, multi-table joins, aggregations, conditional logic, date-based analysis, and year-on-year comparisons.
+- **SQL Server and SSMS:** Data analysis, multi-table joins, aggregations, conditional logic, date-based analysis, and year-on-year comparisons.
 - **Excel:** Data cleaning, standardisation, date validation, and percentage-change calculations.
 - **Data quality:** Identifying invalid dates, inconsistent text, unusual quantities, and shipping records requiring investigation.
 - **Business analysis:** Investigating performance changes and translating findings into actionable recommendations.
