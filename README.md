@@ -38,7 +38,7 @@ This raises a concern about the business's ability to attract new customers. Fur
 
 ### 3. Electronics and Footwear were major areas of concern
 
-<img src="category revenue.png" alt="Electronics and Footwear were major areas of concern" width="700">
+<img src="category revenue.png" alt="Electronics and Footwear were major areas of concern" width="800">
 ![Electronics and Footwear were major areas of concern](category revenue.png)
 
 - **Electronics revenue** declined by approximately 23.1%.
