@@ -21,6 +21,8 @@ To analyse e-commerce performance using SQL, evaluate year-on-year changes in sa
 
 ### 1. Sales performance declined
 
+<img src="sales performance.png" alt="Sales performance declined" width="700">
+
 - Revenue decreased between 2024 and 2025.
 - Total orders fell from **118 to 102**, a decline of **13.6%**.
 - Average order value decreased from **303.71 to 278.16**, a decline of **8.4%**.
